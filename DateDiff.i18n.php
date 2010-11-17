@@ -59,6 +59,13 @@ $messages['de'] = array(
 	'datediff-desc' => 'Ermöglicht die Ausgabe aller Tage, die zwischen zwei angegebenen Tagen liegen',
 );
 
+/** Lower Sorbian (Dolnoserbski)
+ * @author Michawiki
+ */
+$messages['dsb'] = array(
+	'datediff-desc' => 'Wudawa wšykne dny, kótarež su mjazy dwěma pódanyma dnjoma',
+);
+
 /** Spanish (Español)
  * @author Sanbec
  */
