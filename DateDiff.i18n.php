@@ -101,6 +101,13 @@ $messages['gsw'] = array(
 	'datediff-desc' => 'Git alli Däg zruck, wu zwische zwee bstime Däg lige',
 );
 
+/** Hebrew (עברית)
+ * @author YaronSh
+ */
+$messages['he'] = array(
+	'datediff-desc' => 'קבלת שני תאריכים והחזרת כל הימים שביניהם',
+);
+
 /** Upper Sorbian (Hornjoserbsce)
  * @author Michawiki
  */
