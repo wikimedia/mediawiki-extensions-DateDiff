@@ -228,6 +228,13 @@ $messages['ru'] = array(
 	'datediff-desc' => 'Возвращает все даты между двумя заданными.',
 );
 
+/** Slovenian (Slovenščina)
+ * @author Dbc334
+ */
+$messages['sl'] = array(
+	'datediff-desc' => 'Sprejme dva datuma in vrne vse vmesne dneve',
+);
+
 /** Swedish (Svenska)
  * @author Ainali
  */
