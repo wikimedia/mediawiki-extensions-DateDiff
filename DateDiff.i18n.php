@@ -24,6 +24,13 @@ $messages['be-tarask'] = array(
 	'datediff-desc' => 'Вяртае ўсе дні паміж двума пададзенымі датамі',
 );
 
+/** Bulgarian (Български)
+ * @author DCLXVI
+ */
+$messages['bg'] = array(
+	'datediff-desc' => 'Взема две дати и връща всички дни между тях',
+);
+
 /** Breton (Brezhoneg)
  * @author Gwendal
  */
