@@ -17,7 +17,7 @@ $messages['en'] = array(
 	'datediff-desc' => 'Takes two dates and returns all intermediate days'
 );
 
-/** Belarusian (Taraškievica orthography) (Беларуская (тарашкевіца))
+/** Belarusian (Taraškievica orthography) (‪Беларуская (тарашкевіца)‬)
  * @author EugeneZelenko
  */
 $messages['be-tarask'] = array(
