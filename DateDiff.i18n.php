@@ -178,6 +178,13 @@ $messages['mk'] = array(
 	'datediff-desc' => 'Зема два датума и ги наведува сите датуми помеѓу нив',
 );
 
+/** Malayalam (മലയാളം)
+ * @author Junaidpv
+ */
+$messages['ml'] = array(
+	'datediff-desc' => 'രണ്ട് തിയ്യതികൾ സ്വീകരിച്ച് അതിനിടയിലുള്ള എല്ലാ ദിവസങ്ങളും നൽകുന്നു',
+);
+
 /** Dutch (Nederlands)
  * @author Siebrand
  */
