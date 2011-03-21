@@ -143,6 +143,13 @@ $messages['id'] = array(
 	'datediff-desc' => 'Mengambil dua tanggal dan mengembalikan semua hari pertengahan',
 );
 
+/** Italian (Italiano)
+ * @author Pietrodn
+ */
+$messages['it'] = array(
+	'datediff-desc' => 'Prende due date e restituisce tutti i giorni intermedi',
+);
+
 /** Japanese (日本語)
  * @author Yanajin66
  */
