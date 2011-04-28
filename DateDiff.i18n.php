@@ -263,6 +263,13 @@ $messages['sv'] = array(
 	'datediff-desc' => 'Tar två datum och returnerar alla mellanliggande dagar',
 );
 
+/** Tetum (Tetun)
+ * @author MF-Warburg
+ */
+$messages['tet'] = array(
+	'datediff-desc' => "Fó lista loron sira-nian ne'ebé iha data rua leet",
+);
+
 /** Tagalog (Tagalog)
  * @author AnakngAraw
  */
