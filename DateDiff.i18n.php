@@ -263,6 +263,13 @@ $messages['sv'] = array(
 	'datediff-desc' => 'Tar två datum och returnerar alla mellanliggande dagar',
 );
 
+/** Telugu (తెలుగు)
+ * @author Chaduvari
+ */
+$messages['te'] = array(
+	'datediff-desc' => 'రెండు తేదీలను తీసుకుని, వాటి మధ్యనున్న అన్ని రోజులనూ చూపిస్తుంది',
+);
+
 /** Tetum (Tetun)
  * @author MF-Warburg
  */
