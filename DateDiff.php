@@ -27,7 +27,7 @@ $wgExtensionCredits['parserhook'][] = array(
 		'[http://david.raison.lu David Raison]',
 		'[http://www.mediawiki.org/wiki/User:Jeroen_De_Dauw Jeroen De Dauw]'
 	),
-	'url' => 'http://www.mediawiki.org/wiki/Extension:DateDiff',
+	'url' => 'https://www.mediawiki.org/wiki/Extension:DateDiff',
 	'descriptionmsg' => 'datediff-desc',
 	'version' => Datediff_VERSION,
 );
