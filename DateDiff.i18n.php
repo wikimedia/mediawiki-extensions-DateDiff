@@ -312,3 +312,8 @@ $messages['zh-hans'] = array(
 	'datediff-desc' => '采用两个日期并返回所有中间天',
 );
 
+/** Traditional Chinese (‪中文(繁體)‬) */
+$messages['zh-hant'] = array(
+	'datediff-desc' => '採用兩個日期並返回所有中間天',
+);
+
