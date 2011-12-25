@@ -206,18 +206,18 @@ $messages['ms'] = array(
 	'datediff-desc' => 'Mengambil dua tarikh lalu memulangkan semua hari antaranya',
 );
 
-/** Dutch (Nederlands)
- * @author Siebrand
- */
-$messages['nl'] = array(
-	'datediff-desc' => 'Geeft alle tussenliggende dagen voor twee datums terug',
-);
-
 /** Norwegian (bokmål)‬ (‪Norsk (bokmål)‬)
  * @author Nghtwlkr
  */
 $messages['nb'] = array(
 	'datediff-desc' => 'Tar to datoer og returnerer alle dagene imellom',
+);
+
+/** Dutch (Nederlands)
+ * @author Siebrand
+ */
+$messages['nl'] = array(
+	'datediff-desc' => 'Geeft alle tussenliggende dagen voor twee datums terug',
 );
 
 /** Polish (Polski)
