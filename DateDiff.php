@@ -1,5 +1,4 @@
 <?php
-
 /**
  * DateDiff extension.
  *
@@ -15,9 +14,10 @@ if ( !defined( 'MEDIAWIKI' ) ) {
 	die( 'Not an entry point.' );
 }
 
-define( 'Datediff_VERSION', '0.1.1' );
+define( 'Datediff_VERSION', '0.2.0' );
 
 $wgExtensionMessagesFiles['DateDiff'] = dirname( __FILE__ ) . '/DateDiff.i18n.php';
+$wgExtensionMessagesFiles['DateDiffMagic'] = dirname( __FILE__ ) . '/DateDiff.i18n.magic.php';
 
 // Extension credits that show up on Special:Version
 $wgExtensionCredits['parserhook'][] = array(
@@ -33,18 +33,9 @@ $wgExtensionCredits['parserhook'][] = array(
 );
 
 $wgHooks['ParserFirstCallInit'][] = 'efDDDateDiff';
-$wgHooks['LanguageGetMagic'][] = 'efDDDatesFunctionMagic';
 
 function efDDDateDiff( Parser &$parser ) {
 	$parser->setFunctionHook( 'dates', 'efDDCalcDates' );
-	return true;
-}
-
-/**
- * Adds the magic words for the parser functions.
- */
-function efDDDatesFunctionMagic( &$magicWords, $langCode ) {
-	$magicWords['dates'] = array( 0, 'dates' );
 	return true;
 }
 
