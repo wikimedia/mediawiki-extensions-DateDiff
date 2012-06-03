@@ -164,6 +164,13 @@ $messages['ja'] = array(
 	'datediff-desc' => '２種類の日付を受け取って、すべての中間の日付を返す',
 );
 
+/** Korean (한국어)
+ * @author 아라
+ */
+$messages['ko'] = array(
+	'datediff-desc' => '두 날짜를 받아 이에 대한 중간 날짜를 반환',
+);
+
 /** Colognian (Ripoarisch)
  * @author Purodha
  */
