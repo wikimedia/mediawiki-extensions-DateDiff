@@ -158,10 +158,11 @@ $messages['it'] = array(
 );
 
 /** Japanese (日本語)
+ * @author Shirayuki
  * @author Yanajin66
  */
 $messages['ja'] = array(
-	'datediff-desc' => '２種類の日付を受け取って、すべての中間の日付を返す',
+	'datediff-desc' => '2 つの日付を受け取って、その間の日数を返す',
 );
 
 /** Korean (한국어)
