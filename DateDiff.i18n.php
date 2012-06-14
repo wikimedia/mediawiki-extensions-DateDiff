@@ -17,7 +17,7 @@ $messages['en'] = array(
 	'datediff-desc' => 'Takes two dates and returns all intermediate days'
 );
 
-/** Asturian (Asturianu)
+/** Asturian (asturianu)
  * @author Xuacu
  */
 $messages['ast'] = array(
@@ -31,35 +31,35 @@ $messages['be-tarask'] = array(
 	'datediff-desc' => 'Вяртае ўсе дні паміж двума пададзенымі датамі',
 );
 
-/** Bulgarian (Български)
+/** Bulgarian (български)
  * @author DCLXVI
  */
 $messages['bg'] = array(
 	'datediff-desc' => 'Взема две дати и връща всички дни между тях',
 );
 
-/** Breton (Brezhoneg)
+/** Breton (brezhoneg)
  * @author Gwendal
  */
 $messages['br'] = array(
 	'datediff-desc' => 'Kemer daou deiziad ha reiñ a ra an deizioù etre',
 );
 
-/** Bosnian (Bosanski)
+/** Bosnian (bosanski)
  * @author CERminator
  */
 $messages['bs'] = array(
 	'datediff-desc' => 'Uzima dva datuma i vraća sve dane između njih',
 );
 
-/** Catalan (Català)
+/** Catalan (català)
  * @author Aleator
  */
 $messages['ca'] = array(
 	'datediff-desc' => 'Pren dues dates i retorna tots els dies intermedis',
 );
 
-/** Czech (Česky)
+/** Czech (česky)
  * @author Mormegil
  */
 $messages['cs'] = array(
@@ -80,21 +80,21 @@ $messages['dsb'] = array(
 	'datediff-desc' => 'Wudawa wšykne dny, kótarež su mjazy dwěma pódanyma dnjoma',
 );
 
-/** Spanish (Español)
+/** Spanish (español)
  * @author Sanbec
  */
 $messages['es'] = array(
 	'datediff-desc' => 'Toma dos fechas y devuelve todos los días intermedios',
 );
 
-/** Finnish (Suomi)
+/** Finnish (suomi)
  * @author Nike
  */
 $messages['fi'] = array(
 	'datediff-desc' => 'Tuottaa kaikki päivät kahden päivämäärän välillä',
 );
 
-/** French (Français)
+/** French (français)
  * @author Sherbrooke
  */
 $messages['fr'] = array(
@@ -129,14 +129,14 @@ $messages['hsb'] = array(
 	'datediff-desc' => 'Bjerje dwaj datumaj a wróća wšě dny mjez nimaj',
 );
 
-/** Hungarian (Magyar)
+/** Hungarian (magyar)
  * @author Dani
  */
 $messages['hu'] = array(
 	'datediff-desc' => 'Visszaadja két dátum közötti összes napot',
 );
 
-/** Interlingua (Interlingua)
+/** Interlingua (interlingua)
  * @author McDutchie
  */
 $messages['ia'] = array(
@@ -150,7 +150,7 @@ $messages['id'] = array(
 	'datediff-desc' => 'Mengambil dua tanggal dan mengembalikan semua hari pertengahan',
 );
 
-/** Italian (Italiano)
+/** Italian (italiano)
  * @author Pietrodn
  */
 $messages['it'] = array(
@@ -193,7 +193,7 @@ $messages['mg'] = array(
 	'datediff-desc' => 'Maka daty roa ary mamerina ny andro antenantenany',
 );
 
-/** Macedonian (Македонски)
+/** Macedonian (македонски)
  * @author Bjankuloski06
  */
 $messages['mk'] = array(
@@ -228,7 +228,7 @@ $messages['nl'] = array(
 	'datediff-desc' => 'Geeft alle tussenliggende dagen voor twee datums terug',
 );
 
-/** Polish (Polski)
+/** Polish (polski)
  * @author Sp5uhe
  */
 $messages['pl'] = array(
@@ -243,49 +243,49 @@ $messages['pms'] = array(
 	'datediff-desc' => 'A pija doe date e a da andarera tùit ij di ant ël mes',
 );
 
-/** Portuguese (Português)
+/** Portuguese (português)
  * @author Hamilton Abreu
  */
 $messages['pt'] = array(
 	'datediff-desc' => 'Aceita duas datas e retorna todos os dias intermédios',
 );
 
-/** Brazilian Portuguese (Português do Brasil)
+/** Brazilian Portuguese (português do Brasil)
  * @author Giro720
  */
 $messages['pt-br'] = array(
 	'datediff-desc' => 'Tomar duas datas e retornar todos os dias intermediários',
 );
 
-/** Tarandíne (Tarandíne)
+/** tarandíne (tarandíne)
  * @author Joetaras
  */
 $messages['roa-tara'] = array(
 	'datediff-desc' => 'Pigghie doje date e retorne tutte le sciurne indermedie',
 );
 
-/** Russian (Русский)
+/** Russian (русский)
  * @author MaxSem
  */
 $messages['ru'] = array(
 	'datediff-desc' => 'Возвращает все даты между двумя заданными.',
 );
 
-/** Slovak (Slovenčina)
+/** Slovak (slovenčina)
  * @author Helix84
  */
 $messages['sk'] = array(
 	'datediff-desc' => 'Vezme dva dátumy a vráti všetky dni medzi nimi',
 );
 
-/** Slovenian (Slovenščina)
+/** Slovenian (slovenščina)
  * @author Dbc334
  */
 $messages['sl'] = array(
 	'datediff-desc' => 'Sprejme dva datuma in vrne vse vmesne dneve',
 );
 
-/** Swedish (Svenska)
+/** Swedish (svenska)
  * @author Ainali
  */
 $messages['sv'] = array(
@@ -299,7 +299,7 @@ $messages['te'] = array(
 	'datediff-desc' => 'రెండు తేదీలను తీసుకుని, వాటి మధ్యనున్న అన్ని రోజులనూ చూపిస్తుంది',
 );
 
-/** Tetum (Tetun)
+/** Tetum (tetun)
  * @author MF-Warburg
  */
 $messages['tet'] = array(
@@ -313,21 +313,21 @@ $messages['tl'] = array(
 	'datediff-desc' => 'Kumukuha ng dalawang mga petsa at nagbabalik ng panggitnang mga araw',
 );
 
-/** Ukrainian (Українська)
+/** Ukrainian (українська)
  * @author Тест
  */
 $messages['uk'] = array(
 	'datediff-desc' => 'Приймає дві дати і повертає всі проміжні дні',
 );
 
-/** Simplified Chinese (‪中文(简体)‬)
+/** Simplified Chinese (‪中文（简体）‬)
  * @author Hydra
  */
 $messages['zh-hans'] = array(
 	'datediff-desc' => '采用两个日期并返回所有中间天',
 );
 
-/** Traditional Chinese (‪中文(繁體)‬) */
+/** Traditional Chinese (‪中文（繁體）‬) */
 $messages['zh-hant'] = array(
 	'datediff-desc' => '採用兩個日期並返回所有中間天',
 );
