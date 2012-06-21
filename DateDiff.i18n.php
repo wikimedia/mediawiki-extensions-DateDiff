@@ -313,6 +313,13 @@ $messages['tl'] = array(
 	'datediff-desc' => 'Kumukuha ng dalawang mga petsa at nagbabalik ng panggitnang mga araw',
 );
 
+/** Tuvinian (Тыва дыл)
+ * @author Agilight
+ */
+$messages['tyv'] = array(
+	'datediff-desc' => 'Ийи бердинген даталарның аразында хүннрени үндүрери.',
+);
+
 /** Ukrainian (українська)
  * @author Тест
  */
