@@ -24,7 +24,7 @@ $messages['ast'] = array(
 	'datediff-desc' => 'Toma dos dates y devuelve tolos díes intermedios',
 );
 
-/** Belarusian (Taraškievica orthography) (‪Беларуская (тарашкевіца)‬)
+/** Belarusian (Taraškievica orthography) (‪беларуская (тарашкевіца)‬)
  * @author EugeneZelenko
  */
 $messages['be-tarask'] = array(
@@ -73,7 +73,7 @@ $messages['de'] = array(
 	'datediff-desc' => 'Ermöglicht die Ausgabe aller Tage, die zwischen zwei angegebenen Tagen liegen',
 );
 
-/** Lower Sorbian (Dolnoserbski)
+/** Lower Sorbian (dolnoserbski)
  * @author Michawiki
  */
 $messages['dsb'] = array(
@@ -101,7 +101,7 @@ $messages['fr'] = array(
 	'datediff-desc' => 'Prend deux dates et retourne tous les jours intermédiaires',
 );
 
-/** Galician (Galego)
+/** Galician (galego)
  * @author Toliño
  */
 $messages['gl'] = array(
@@ -122,7 +122,7 @@ $messages['he'] = array(
 	'datediff-desc' => 'קבלת שני תאריכים והחזרת כל הימים שביניהם',
 );
 
-/** Upper Sorbian (Hornjoserbsce)
+/** Upper Sorbian (hornjoserbsce)
  * @author Michawiki
  */
 $messages['hsb'] = array(
