@@ -214,7 +214,7 @@ $messages['ms'] = array(
 	'datediff-desc' => 'Mengambil dua tarikh lalu memulangkan semua hari antaranya',
 );
 
-/** Norwegian (bokmål)‬ (‪Norsk (bokmål)‬)
+/** Norwegian Bokmål (‪norsk (bokmål)‬)
  * @author Nghtwlkr
  */
 $messages['nb'] = array(
@@ -313,7 +313,7 @@ $messages['tl'] = array(
 	'datediff-desc' => 'Kumukuha ng dalawang mga petsa at nagbabalik ng panggitnang mga araw',
 );
 
-/** Tuvinian (Тыва дыл)
+/** Tuvinian (тыва дыл)
  * @author Agilight
  */
 $messages['tyv'] = array(
