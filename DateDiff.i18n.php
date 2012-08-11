@@ -214,6 +214,13 @@ $messages['ms'] = array(
 	'datediff-desc' => 'Mengambil dua tarikh lalu memulangkan semua hari antaranya',
 );
 
+/** Maltese (Malti)
+ * @author Chrisportelli
+ */
+$messages['mt'] = array(
+	'datediff-desc' => 'Jieħu żewġ dati u jirritorna l-ġranet kollha intermedji',
+);
+
 /** Norwegian Bokmål (‪norsk (bokmål)‬)
  * @author Nghtwlkr
  */
