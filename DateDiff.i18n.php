@@ -24,7 +24,7 @@ $messages['ast'] = array(
 	'datediff-desc' => 'Toma dos dates y devuelve tolos díes intermedios',
 );
 
-/** Belarusian (Taraškievica orthography) (‪беларуская (тарашкевіца)‬)
+/** Belarusian (Taraškievica orthography) (беларуская (тарашкевіца)‎)
  * @author EugeneZelenko
  */
 $messages['be-tarask'] = array(
@@ -221,7 +221,7 @@ $messages['mt'] = array(
 	'datediff-desc' => 'Jieħu żewġ dati u jirritorna l-ġranet kollha intermedji',
 );
 
-/** Norwegian Bokmål (‪norsk (bokmål)‬)
+/** Norwegian Bokmål (norsk (bokmål)‎)
  * @author Nghtwlkr
  */
 $messages['nb'] = array(
@@ -334,14 +334,14 @@ $messages['uk'] = array(
 	'datediff-desc' => 'Приймає дві дати і повертає всі проміжні дні',
 );
 
-/** Simplified Chinese (‪中文（简体）‬)
+/** Simplified Chinese (中文（简体）‎)
  * @author Hydra
  */
 $messages['zh-hans'] = array(
 	'datediff-desc' => '采用两个日期并返回所有中间天',
 );
 
-/** Traditional Chinese (‪中文（繁體）‬) */
+/** Traditional Chinese (中文（繁體）‎) */
 $messages['zh-hant'] = array(
 	'datediff-desc' => '採用兩個日期並返回所有中間天',
 );
