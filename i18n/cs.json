@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mormegil"
+		]
+	},
+	"datediff-desc": "Na základě dvou dat vrátí všechny mezilehlé dny"
+}

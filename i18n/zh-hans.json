@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Hydra"
+		]
+	},
+	"datediff-desc": "采用两个日期并返回所有中间天"
+}

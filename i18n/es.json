@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Sanbec"
+		]
+	},
+	"datediff-desc": "Toma dos fechas y devuelve todos los días intermedios"
+}

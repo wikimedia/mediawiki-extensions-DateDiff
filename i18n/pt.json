@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Hamilton Abreu"
+		]
+	},
+	"datediff-desc": "Aceita duas datas e retorna todos os dias intermédios"
+}

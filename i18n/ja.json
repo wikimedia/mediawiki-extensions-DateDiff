@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Shirayuki",
+			"Yanajin66"
+		]
+	},
+	"datediff-desc": "2 つの日付を受け取って、その間の日数を返す"
+}

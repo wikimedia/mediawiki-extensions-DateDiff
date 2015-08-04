@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"아라"
+		]
+	},
+	"datediff-desc": "두 날짜를 받아 이에 대한 중간 날짜를 반환"
+}

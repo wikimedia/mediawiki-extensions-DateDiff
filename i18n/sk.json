@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Helix84"
+		]
+	},
+	"datediff-desc": "Vezme dva dátumy a vráti všetky dni medzi nimi"
+}

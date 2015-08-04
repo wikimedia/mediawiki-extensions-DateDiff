@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Dani"
+		]
+	},
+	"datediff-desc": "Visszaadja két dátum közötti összes napot"
+}

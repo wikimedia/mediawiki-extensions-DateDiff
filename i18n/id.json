@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Farras"
+		]
+	},
+	"datediff-desc": "Mengambil dua tanggal dan mengembalikan semua hari pertengahan"
+}

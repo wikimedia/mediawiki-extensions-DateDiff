@@ -16,7 +16,7 @@ if ( !defined( 'MEDIAWIKI' ) ) {
 
 define( 'Datediff_VERSION', '0.2.0' );
 
-$wgExtensionMessagesFiles['DateDiff'] = dirname( __FILE__ ) . '/DateDiff.i18n.php';
+$wgMessagesDirs['DateDiff'] = __DIR__ . '/i18n';
 $wgExtensionMessagesFiles['DateDiffMagic'] = dirname( __FILE__ ) . '/DateDiff.i18n.magic.php';
 
 // Extension credits that show up on Special:Version

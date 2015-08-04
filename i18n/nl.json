@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Siebrand"
+		]
+	},
+	"datediff-desc": "Geeft alle tussenliggende dagen voor twee datums terug"
+}

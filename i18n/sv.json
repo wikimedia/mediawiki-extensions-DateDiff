@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ainali"
+		]
+	},
+	"datediff-desc": "Tar två datum och returnerar alla mellanliggande dagar"
+}

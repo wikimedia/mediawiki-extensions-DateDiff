@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Sherbrooke"
+		]
+	},
+	"datediff-desc": "Prend deux dates et retourne tous les jours intermédiaires"
+}

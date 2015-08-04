@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Jeroen De Dauw"
+		]
+	},
+	"datediff-desc": "Takes two dates and returns all intermediate days"
+}

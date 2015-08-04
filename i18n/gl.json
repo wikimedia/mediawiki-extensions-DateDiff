@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Toliño"
+		]
+	},
+	"datediff-desc": "Toma dúas datas e devolve todos os días intermedios"
+}
