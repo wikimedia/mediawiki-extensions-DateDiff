@@ -1,6 +1,4 @@
 {
-	"@metadata": {
-		"authors": []
-	},
+	"@metadata": [],
 	"datediff-desc": "採用兩個日期並返回所有中間天"
 }
