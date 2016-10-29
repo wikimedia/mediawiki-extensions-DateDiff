@@ -49,7 +49,7 @@ $wgExtensionCredits['parserhook'][] = array(
 
 // Register extension messages
 $wgMessagesDirs['DateDiff'] = __DIR__ . '/i18n';
-$wgExtensionMessagesFiles['DateDiffMagic'] = __DIR_ . '/DateDiff.i18n.magic.php';
+$wgExtensionMessagesFiles['DateDiffMagic'] = __DIR__ . '/DateDiff.i18n.magic.php';
 
 // Register hook
 $wgHooks['ParserFirstCallInit'][] = 'efDDDateDiff';
