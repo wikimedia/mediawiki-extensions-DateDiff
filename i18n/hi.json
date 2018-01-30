@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Innocentbunny"
+			"Innocentbunny",
+			"Bhatakati aatma"
 		]
 	},
-	"datediff-desc": "दो तारीखें लेता है, और उनके बीच के सारे दिनांकों को देता है"
+	"datediff-desc": "दो तिथियाँ लेता है, और उनके बीच की सारी तिथियों को देता है"
 }
