@@ -51,6 +51,9 @@ $wgExtensionCredits['parserhook'][] = array(
 $wgMessagesDirs['DateDiff'] = __DIR__ . '/i18n';
 $wgExtensionMessagesFiles['DateDiffMagic'] = __DIR__ . '/DateDiff.i18n.magic.php';
 
+// Basic Parser Tests
+$wgParserTestFiles[] = __DIR__ . '/tests/parser/parserTests.txt';
+
 // Register hook
 $wgHooks['ParserFirstCallInit'][] = 'efDDDateDiff';
 

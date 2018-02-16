@@ -1,0 +1,8 @@
+!! test
+Basic #dates usage
+!! input
+{{#dates:|StartDate=2017/12/01|EndDate=2017/12/02}}
+!! result
+<p>2017-12-01T00:00:00+00:00,2017-12-02T00:00:00+00:00
+</p>
+!! end
