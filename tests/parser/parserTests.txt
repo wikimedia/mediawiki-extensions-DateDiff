@@ -1,8 +1,10 @@
+!! Version 2
+
 !! test
 Basic #dates usage
-!! input
+!! wikitext
 {{#dates:|StartDate=2017/12/01|EndDate=2017/12/02}}
-!! result
+!! html
 <p>2017-12-01T00:00:00+00:00,2017-12-02T00:00:00+00:00
 </p>
 !! end
