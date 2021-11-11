@@ -6,6 +6,17 @@ a list of intermediary days.
 This file documents the development changes.
 
 
+### Version 0.4.0
+Release on TBD by Zoran Dori (Zoranzoki21)
+
+- Dropped compatibility with PHP 7.2 and lower
+- Dropped compatibility with MediaWiki 1.35 and lower
+- Convert extension to use extension registration system
+- Add MediaWiki's Codesniffer and Phan
+- Bump versions of development dependencies
+- Minor internal code changes
+- Provide translations done by the community of translatewiki.net
+
 ### Version 0.3.1
 
 Released on 2016-10-29 by Karsten Hoffmeyer (kghbln)
