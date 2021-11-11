@@ -14,14 +14,14 @@
  * @ingroup Extensions
  * @package MediaWiki
  *
- * @version 0.3.1 2016-10-29
+ * @version 0.4.0 TBD
  *
  * @copyright Copyright (C) 2010, David Raison
  *
  * @author David Raison
  * @author Jeroen De Dauw
  *
- * @licence https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons "Attribution-ShareAlike" 3.0
+ * @license CC-BY-SA-3.0
  */
 
 // Ensure that the script cannot be executed outside of MediaWiki

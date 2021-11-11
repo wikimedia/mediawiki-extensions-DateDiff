@@ -21,7 +21,7 @@
  * @author David Raison
  * @author Jeroen De Dauw
  *
- * @licence https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons "Attribution-ShareAlike" 3.0
+ * @license CC-BY-SA-3.0
  */
 
 class DateDiff {
@@ -46,7 +46,7 @@ class DateDiff {
 			array_shift( $params );
 		}
 
-		$dates = array();
+		$dates = [];
 
 		foreach ( $params as $pair ) {
 			// We currently ignore the label of the date.
@@ -56,12 +56,14 @@ class DateDiff {
 		$time1 = strtotime( $dates[0] );
 		$time2 = strtotime( $dates[1] );
 
-		$a = ( $time2 > $time1 ) ? $time2 : $time1; // higher
-		$b = ( $a == $time1 ) ? $time2 : $time1; // lower
+		// higher
+		$a = ( $time2 > $time1 ) ? $time2 : $time1;
+		// lower
+		$b = ( $a == $time1 ) ? $time2 : $time1;
 		$datediff = $a - $b;
 
 		$oneday = 86400;
-		$days = array();
+		$days = [];
 
 		for ( $i = 0; $i <= $datediff; $i += $oneday ) {
 			$days[] = date( 'c', strtotime( $dates[0] ) + $i );
