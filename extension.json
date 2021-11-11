@@ -1,0 +1,29 @@
+{
+	"name": "DateDiff",
+	"version": "0.4.0",
+	"author": [
+		"[http://www.expressprogs.com Khaled El Mansoury]",
+		"[https://www.mediawiki.org/wiki/User:Jeroen_De_Dauw Jeroen De Dauw]"
+	],
+	"license-name": "CC-BY-SA-3.0",
+	"url": "https://www.mediawiki.org/wiki/Extension:DateDiff",
+	"descriptionmsg": "datediff-desc",
+	"requires": {
+		"MediaWiki": ">= 1.35.0"
+	},
+	"MessagesDirs": {
+		"DateDiff": [
+			"i18n"
+		]
+	},
+	"ExtensionMessagesFiles": {
+		"DateDiffMagic": "DateDiff.i18n.magic.php"
+	},
+	"AutoloadClasses": {
+		"DateDiff": "src/DateDiff.php"
+	},
+	"Hooks": {
+		"ParserFirstCallInit": "DateDiff::efDDDateDiff"
+	},
+	"manifest_version": 2
+}

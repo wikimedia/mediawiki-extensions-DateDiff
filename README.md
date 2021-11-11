@@ -6,8 +6,8 @@ a list of intermediary days.
 
 ### Compatibility
 
-* PHP 5.3+
-* MediaWiki 1.23+
+* PHP 7.2+
+* MediaWiki 1.35+
 
 See also the "CHANGELOG.md" file provided with the code.
 
@@ -20,7 +20,7 @@ See also the "CHANGELOG.md" file provided with the code.
 
 (3) Add the following code at the bottom of your "LocalSettings.php" file:
 ```
-require_once "$IP/extensions/DateDiff/DateDiff.php";
+wfLoadExtension( 'DateDiff' );
 ```
 (4) Go to "Special:Version" on your wiki to verify that the extension is successfully installed.
 
