@@ -1,4 +1,5 @@
 {
+	"name": "DateDiff",
 	"private": true,
 	"scripts": {
 		"test": "grunt test"
